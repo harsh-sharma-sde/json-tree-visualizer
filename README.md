@@ -1,14 +1,7 @@
-Of course. Here is a comprehensive `README.md` file for the JSON Tree Visualizer project.
-
----
-
 # Interactive JSON Tree Visualizer
 
 An intuitive web application that allows users to visualize JSON data as a hierarchical, top-down tree structure. Built with React and React Flow, this tool features JSON path search, node highlighting, and a sleek, responsive design with light and dark themes.
 
-
-
-*(This README assumes the project was bootstrapped with Vite, but the instructions are easily adaptable for Create React App)*
 
 ---
 
@@ -66,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/json-tree-visualizer.git
+    git clone https://github.com/harsh-sharma-sde/json-tree-visualizer.git
     cd json-tree-visualizer
     ```
 
